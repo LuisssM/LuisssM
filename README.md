@@ -17,7 +17,7 @@
  <a href="mailto:luispsmiranda.96@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 
-<br />
+<br/>
 
 
 ## 🧰 Languages and Tools:
@@ -60,6 +60,7 @@
 [linkedin]: https://linkedin.com/in/charalambosioannou
 [mail]: mailto:cioannou1997@gmail.com
   
+  <br>
   ## :email: Find me on:
 
 <!--
@@ -70,6 +71,7 @@
  <a href="https://www.linkedin.com/in/luis-santos-23bb49164" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:luispsmiranda.96@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
+  </br>
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
