@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 
-
+<div class="bg-black"
 
 ## 🎓 I'm a junior Web Dev
 
