@@ -14,16 +14,13 @@
 ## :email: Find me on:
 
 <!--
-[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
 
 <p align="center">
- <a href="https://www.charalambosioannou.tech" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/charalambos-ioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
-  <a href="https://dev.to/CharalambosIoannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/luis-santos-23bb49164" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="luispsmiranda.96@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 
 <br />
@@ -69,20 +66,6 @@
 [linkedin]: https://linkedin.com/in/charalambosioannou
 [mail]: mailto:cioannou1997@gmail.com
   
-  ## :email: Find me on:
-
-<!--
-[<img align="left" alt="LuisssM | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LuisssM | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
-
-<p align="center">
- <a href="https://www.charalambosioannou.tech" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/charalambos-ioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
-  <a href="https://dev.to/CharalambosIoannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-</p>
-
 <br />
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
