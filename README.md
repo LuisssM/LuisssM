@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning C#. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
-- 
+
 ## :email: Find me on:
 
 <!--
