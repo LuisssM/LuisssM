@@ -67,8 +67,9 @@
 [mail]: mailto:cioannou1997@gmail.com
   
 <br />
+  <br>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ <br />
 </div>
         </div>
