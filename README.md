@@ -11,12 +11,6 @@
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 - 
-## :email: Find me on:
-
-<!--
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
 
 <p align="center">
  <a href="https://www.linkedin.com/in/luis-santos-23bb49164" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -65,6 +59,13 @@
 [website]: https://charalambosioannou.tech
 [linkedin]: https://linkedin.com/in/charalambosioannou
 [mail]: mailto:cioannou1997@gmail.com
+  
+  ## :email: Find me on:
+
+<!--
+[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
