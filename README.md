@@ -6,7 +6,7 @@
 
 ## 🎓 I'm a junior Web Dev
 
-- 🔭 I’m currently building small projects following videos.
+- 🔭 I’m currently building small back and front-end projects following videos.
 - 🌱 I’m currently learning C#. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
