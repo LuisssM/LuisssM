@@ -4,7 +4,7 @@
 
 <div class="bg-black">
 
-## 🎓 I'm a junior Web Dev
+## 🎓 Junior Web Dev
 
 - 🔭 I’m currently building small back and front-end projects following videos.
 - 🌱 I’m currently learning C#. 
