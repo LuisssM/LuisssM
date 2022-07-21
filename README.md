@@ -5,7 +5,7 @@
 <div class="bg-black">
 
 ## 🎓 Junior Web Dev
-
+- 🧰 Look at my first IT project! http://www.getcrank.io/
 - 🔭 I’m currently building small back and front-end projects following videos.
 - 🌱 I’m currently learning C# and React. 
 - 👯 I’m looking to collaborate with anyone on any project.
